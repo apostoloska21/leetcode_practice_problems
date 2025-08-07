@@ -1,0 +1,3 @@
+C:/Users/Martina/Desktop/leetcode_practice_problems/even_desc_numbers/cmake-build-debug/CMakeFiles/even_desc_numbers.dir
+C:/Users/Martina/Desktop/leetcode_practice_problems/even_desc_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Martina/Desktop/leetcode_practice_problems/even_desc_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

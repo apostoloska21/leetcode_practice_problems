@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zamena_bukvi_karakteri",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "zamena_bukvi_karakteri::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zamena_bukvi_karakteri-Debug-b92ea1c0ab961af00f5c.json",
+					"name" : "zamena_bukvi_karakteri",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Martina/Desktop/leetcode_practice_problems/zamena_bukvi_karakteri/cmake-build-debug",
+		"source" : "C:/Users/Martina/Desktop/leetcode_practice_problems/zamena_bukvi_karakteri"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
