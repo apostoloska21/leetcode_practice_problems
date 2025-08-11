@@ -1,0 +1,3 @@
+C:/Users/Martina/Desktop/leetcode_practice_problems/sum_elements_pointers/cmake-build-debug/CMakeFiles/sum_elements_pointers.dir
+C:/Users/Martina/Desktop/leetcode_practice_problems/sum_elements_pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Martina/Desktop/leetcode_practice_problems/sum_elements_pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
