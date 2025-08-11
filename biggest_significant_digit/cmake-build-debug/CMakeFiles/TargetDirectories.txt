@@ -1,0 +1,3 @@
+C:/Users/Martina/Desktop/leetcode_practice_problems/biggest_significant_digit/cmake-build-debug/CMakeFiles/biggest_significant_digit.dir
+C:/Users/Martina/Desktop/leetcode_practice_problems/biggest_significant_digit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Martina/Desktop/leetcode_practice_problems/biggest_significant_digit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
