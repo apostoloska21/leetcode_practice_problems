@@ -1,0 +1,9 @@
+# ninja log v5
+0	337	7767899454267396	CMakeFiles/matrix_rows_columns.dir/main.cpp.obj	88aa465a0741bafc
+339	453	7767899455412569	matrix_rows_columns.exe	3587c967374e837a
+2	277	7767899932785980	CMakeFiles/matrix_rows_columns.dir/main.cpp.obj	88aa465a0741bafc
+277	362	7767899933589653	matrix_rows_columns.exe	3587c967374e837a
+3	272	7767900363429328	CMakeFiles/matrix_rows_columns.dir/main.cpp.obj	88aa465a0741bafc
+273	375	7767900364423174	matrix_rows_columns.exe	3587c967374e837a
+2	264	7767900703650412	CMakeFiles/matrix_rows_columns.dir/main.cpp.obj	88aa465a0741bafc
+264	350	7767900704480999	matrix_rows_columns.exe	3587c967374e837a
