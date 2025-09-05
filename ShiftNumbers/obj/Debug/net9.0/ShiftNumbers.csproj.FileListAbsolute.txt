@@ -1,0 +1,15 @@
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ShiftNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ShiftNumbers.AssemblyInfoInputs.cache
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ShiftNumbers.AssemblyInfo.cs
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ShiftNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ShiftNumbers.sourcelink.json
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\bin\Debug\net9.0\ShiftNumbers.exe
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\bin\Debug\net9.0\ShiftNumbers.deps.json
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\bin\Debug\net9.0\ShiftNumbers.runtimeconfig.json
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\bin\Debug\net9.0\ShiftNumbers.dll
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\bin\Debug\net9.0\ShiftNumbers.pdb
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ShiftNumbers.dll
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\refint\ShiftNumbers.dll
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ShiftNumbers.pdb
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ShiftNumbers.genruntimeconfig.cache
+C:\Users\Martina\Desktop\leetcode_practice_problems\ShiftNumbers\obj\Debug\net9.0\ref\ShiftNumbers.dll
